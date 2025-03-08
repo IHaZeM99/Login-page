@@ -27,7 +27,7 @@ This is a modern **Login Page** built with **HTML, CSS. The form includes:
 - [ ] Improve animations with JavaScript
 
 ## 📸 Screenshots
-![Login Page Preview](Images/screenshot.png)
+![Login Page Preview](Images/Screenshot.png)
 
 ## 📜 License
 This project is open-source and free to use.
